@@ -1,7 +1,3 @@
-Certainly! Here's an updated version of the `README.md` with more detailed installation steps for Windows, macOS, and Linux operating systems, including a link to the repository:
-
----
-
 # Music Player Application
 
 ## Overview
@@ -75,6 +71,3 @@ Before installing the application, ensure you have [Node.js](https://nodejs.org/
 - Individual and collective song control is available through `SongRow` and `PlayAllButton`.
 - The UI design utilizes Material-UI components for a modern look and feel.
 
----
-
-This `README.md` provides detailed instructions on how to set up and run the Vite-based music player application on different operating systems. If there are additional details or specific features you would like to be highlighted in the README, please let me know.
